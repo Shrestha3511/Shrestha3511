@@ -1,4 +1,51 @@
-## Hi there 👋
+# Hey, I'm Shrestha 👋
+
+✨ *Exploring technology & building my future in AI*
+
+---
+
+## 🧠 About Me
+
+🎓 Student with a growing interest in technology
+🤖 Aspiring AI Specialist
+💡 Curious, creative, and always learning
+🎯 Goal: Build something meaningful in tech
+
+---
+
+## 🌱 Currently Growing In
+
+* Problem solving & logical thinking
+* Understanding how technology works
+* Building consistency and focus
+
+---
+
+## 🛠️ Skills (Developing)
+
+* C
+* Python
+* Java
+* Git & GitHub
+* Basics of Machine Learning
+
+---
+
+## 📈 Mindset
+
+I’m focused on improving step by step,
+learning deeply, and staying consistent.
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/shrestha-mal-97254b361
+
+---
+
+⭐ *"Progress over perfection."*
+
 
 <!--
 **Shrestha3511/Shrestha3511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
