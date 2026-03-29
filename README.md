@@ -46,7 +46,13 @@ learning deeply, and staying consistent.
 
 ⭐ *"Progress over perfection."*
 
+---
 
+## 📊 GitHub Stats  
+
+![Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrestha3511&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrestha3511&layout=compact&theme=tokyonight)
 <!--
 **Shrestha3511/Shrestha3511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
